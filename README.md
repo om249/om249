@@ -1,131 +1,207 @@
 
-<!--
-  GitHub Profile README
-  Username: om249
-  Theme: Black Neon Cyber / Purple
--->
-
 <div align="center">
 
-<a href="https://github.com/om249">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:190A2E,100:7C3AED&height=230&section=header&text=OMKAR%20DHUMAL&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=16&descAlignY=56" width="100%" alt="Omkar Dhumal profile banner"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:190A2E,100:7C3AED&height=220&section=header&text=OMKAR%20DHUMAL&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=17&descAlignY=58" alt="Omkar Dhumal profile banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=C084FC&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Frontend+%7C+Backend+%7C+Databases;Building+AI-Powered+Applications;Learn.+Build.+Improve." alt="Animated developer introduction"/>
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=BC8CFF&center=true&vCenter=true&width=800&lines=Building+Full-Stack+Applications;Exploring+AI+%26+LLM+Applications;Java+%7C+Spring+Boot+%7C+Python;Turning+Ideas+Into+Working+Projects" alt="Animated developer introduction"/>
-</a>
+<a href="https://github.com/om249"><img src="https://img.shields.io/badge/GITHUB-OM249-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/omkar-dhumal-092763255/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:omkarmdhumal2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-C084FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=om249&style=for-the-badge&color=8B5CF6&label=PROFILE+VISITS" alt="GitHub profile visits"/>
 
 <br/><br/>
 
-<a href="https://github.com/om249">
-  <img src="https://img.shields.io/badge/GitHub-om249-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/omkar-dhumal-092763255/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:omkarmdhumal2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-BC8CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=om249&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
+<i>Turning ideas into applications, and challenges into opportunities to learn.</i>
 
 </div>
 
 ---
 
-## `$ whoami`
+## `Who Am I`
 
-```text
-Name       : Omkar Dhumal
-Role       : MCA Student | Aspiring Software Developer
-Focus      : Full-Stack Development + AI Applications
-Backend    : Java, Spring Boot, Python, Flask
-Databases  : MySQL, MongoDB
-AI         : Gemini API, OpenAI API
-Philosophy : Learn continuously. Build practically. Improve consistently.
-```
+<table>
+<tr>
+<td width="68%" valign="middle">
 
-I'm passionate about building useful software, developing backend systems, and exploring how AI can make applications smarter.
+### Hey, I'm Omkar Dhumal 👋
 
-- 🔭 **Building:** Full-stack applications and AI-powered projects.
-- 🤖 **Exploring:** LLM integrations, AI interview systems, and intelligent workflows.
-- ☕ **Backend interests:** Java, Spring Boot, Hibernate, REST APIs, and Python Flask.
-- 🗄️ **Data:** Relational and NoSQL databases, SQL, and data visualization.
+I'm an MCA student and aspiring **Full-Stack Developer**, interested in building useful software, developing reliable backend systems, and integrating AI into modern applications.
+
+- 🌐 **Frontend:** Responsive interfaces and modern web experiences.
+- ⚙️ **Backend:** Java, Spring Boot, Python, Flask, and REST APIs.
+- 🤖 **AI:** Gemini API, OpenAI API, and LLM-powered applications.
+- 🗄️ **Databases:** MySQL, MongoDB, and database management.
 - 🧠 **Core concepts:** OOP, DSA, DBMS, and SDLC.
-- 🎯 **Goal:** Grow into a capable software engineer by building and shipping real projects.
+- 🚀 **Goal:** Build practical projects and grow into a capable software engineer.
+
+</td>
+<td width="32%" align="center" valign="middle">
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js&theme=dark" width="230" alt="Java, Python, HTML, CSS and JavaScript"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BUILD-8B5CF6?style=for-the-badge" alt="Build"/>
+<img src="https://img.shields.io/badge/LEARN-C084FC?style=for-the-badge" alt="Learn"/>
+<img src="https://img.shields.io/badge/IMPROVE-6D28D9?style=for-the-badge" alt="Improve"/>
+
+</td>
+</tr>
+</table>
+
+## 🎯 My Development Mindset
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/01-BUILD-8B5CF6?style=for-the-badge" alt="Build"/>
+
+### 🛠️ Build
+
+Transform ideas into working applications through hands-on projects and practical implementation.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/02-LEARN-C084FC?style=for-the-badge" alt="Learn"/>
+
+### 📚 Learn
+
+Explore technologies, strengthen fundamentals, and improve problem-solving skills.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/03-IMPROVE-6D28D9?style=for-the-badge" alt="Improve"/>
+
+### 🚀 Improve
+
+Refine projects, write better code, and use feedback to keep progressing.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `$ tech_stack --all`
+## ⚡ Technology Stack
 
-### Programming languages
+<div align="center">
+<sub>Every technology below includes a recognizable logo and its name.</sub>
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js&theme=dark" alt="Java, Python, C, C++, and JavaScript"/>
-</p>
+### 💻 Programming Languages
 
-### Backend development & APIs
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="60" alt="Java"/><br/><b>Java</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="60" alt="Python"/><br/><b>Python</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="60" alt="C"/><br/><b>C</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="60" alt="C++"/><br/><b>C++</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="60" alt="JavaScript"/><br/><b>JavaScript</b></td>
+</tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,flask&theme=dark" alt="Spring, Hibernate, and Flask"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-API%20Development-8B5CF6?style=for-the-badge" alt="REST APIs"/>
-</p>
+### 🎨 Frontend Development
 
-### Frontend development
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="60" alt="HTML5"/><br/><b>HTML5</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="60" alt="CSS3"/><br/><b>CSS3</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="60" alt="JavaScript"/><br/><b>JavaScript</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="60" alt="Tailwind CSS"/><br/><b>Tailwind CSS</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="60" alt="Bootstrap"/><br/><b>Bootstrap</b></td>
+</tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap"/>
-</p>
+### ⚙️ Backend Development & APIs
 
-### Databases
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="60" alt="Spring Boot"/><br/><b>Spring Boot</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=hibernate&theme=dark" width="60" alt="Hibernate"/><br/><b>Hibernate</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="60" alt="Flask"/><br/><b>Flask</b></td>
+<td align="center"><img src="https://img.shields.io/badge/REST-API-8B5CF6?style=for-the-badge" alt="REST APIs"/><br/><b>REST APIs</b></td>
+</tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL and MongoDB"/>
-  <img src="https://img.shields.io/badge/DBMS-Database%20Management-8B5CF6?style=for-the-badge" alt="DBMS"/>
-</p>
+### 🗄️ Databases
 
-### AI & intelligent applications
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60" alt="MySQL"/><br/><b>MySQL</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="60" alt="MongoDB"/><br/><b>MongoDB</b></td>
+<td align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/><br/><b>SQL</b></td>
+<td align="center"><img src="https://img.shields.io/badge/DBMS-8B5CF6?style=for-the-badge" alt="DBMS"/><br/><b>DBMS</b></td>
+</tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/Google%20Gemini-API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini API"/>
-  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
-</p>
+### 🤖 AI & Intelligent Applications
 
-### Developer tools & platforms
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Google-Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API"/><br/><b>Gemini API</b></td>
+<td align="center"><img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/><br/><b>OpenAI API</b></td>
+<td align="center"><img src="https://img.shields.io/badge/LLM-Integration-8B5CF6?style=for-the-badge" alt="LLM integration"/><br/><b>LLM Integration</b></td>
+</tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,wordpress&theme=dark" alt="Git, GitHub, VS Code, Eclipse, Postman, and WordPress"/>
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
-</p>
+### 🛠️ Development Tools
 
-### Data analytics & productivity
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="60" alt="Git"/><br/><b>Git</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="60" alt="GitHub"/><br/><b>GitHub</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60" alt="VS Code"/><br/><b>VS Code</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" width="60" alt="Eclipse"/><br/><b>Eclipse</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="60" alt="Postman"/><br/><b>Postman</b></td>
+</tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-</p>
+### 🌐 Web Platforms
 
-### Computer science fundamentals
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="60" alt="WordPress"/><br/><b>WordPress</b></td>
+<td align="center"><img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/><br/><b>WooCommerce</b></td>
+</tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/OOP-Object--Oriented%20Programming-7C3AED?style=flat-square" alt="Object-oriented programming"/>
-  <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-7C3AED?style=flat-square" alt="Data structures and algorithms"/>
-  <img src="https://img.shields.io/badge/SDLC-Software%20Development%20Lifecycle-7C3AED?style=flat-square" alt="Software development lifecycle"/>
-</p>
+### 📊 Analytics & Productivity
 
-> This stack reflects the technologies and tools I have listed as relevant to my experience. Individual proficiency varies; project READMEs provide the best evidence of hands-on use.
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/><br/><b>Power BI</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/><br/><b>Tableau</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/><br/><b>Microsoft Excel</b></td>
+<td align="center"><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/><br/><b>Google Sheets</b></td>
+</tr>
+</table>
+
+### 🧠 Core Concepts
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/OOP-Object--Oriented%20Programming-8B5CF6?style=for-the-badge" width="300" alt="OOP"/>
+&nbsp;
+<img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-C084FC?style=for-the-badge" width="300" alt="DSA"/>
+
+<img src="https://img.shields.io/badge/SDLC-Software%20Development%20Lifecycle-6D28D9?style=for-the-badge" width="300" alt="SDLC"/>
+
+</div>
 
 ---
 
-## `$ ls ./projects`
-
-### 🚀 Featured projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -133,37 +209,35 @@ I'm passionate about building useful software, developing backend systems, and e
 
 ### 🤖 Drishya AI
 
-**AI-powered interview practice**
+<img src="https://img.shields.io/badge/AI-INTERVIEW%20PRACTICE-8B5CF6?style=for-the-badge" alt="AI interview practice"/>
 
-An AI interviewer project focused on generating interview questions and evaluating responses.
+An AI-powered interview practice application focused on question generation and response evaluation.
 
-**Focus areas**
-- AI-driven interview workflows
+**Highlights**
+- AI-assisted interview workflows
 - Question generation and answer evaluation
-- Backend integration with an LLM API
+- LLM API integration
+- Interview practice experience
 
-<a href="https://github.com/om249/Drishya-AI">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Drishya AI"/>
-</a>
+<a href="https://github.com/om249/Drishya-AI"><img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Drishya AI"/></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 📋 Zeal ProjectHub
 
-**Academic project management**
+<img src="https://img.shields.io/badge/ACADEMIC-PROJECT%20MANAGEMENT-6D28D9?style=for-the-badge" alt="Academic project management"/>
 
-A project management system for coordinating batches, mentors, project stages, and submissions.
+A system for coordinating academic batches, mentors, project stages, and submissions.
 
-**Focus areas**
-- Role-based access and administration
+**Highlights**
+- Role-based authentication
+- Batch and mentor management
 - Stage deadlines and review workflows
 - File submissions and notifications
-- Bulk Excel uploads
+- Bulk Excel uploads and activity logs
 
-<a href="https://github.com/om249/Project-Management-System">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Zeal ProjectHub"/>
-</a>
+<a href="https://github.com/om249/Project-Management-System"><img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Zeal ProjectHub"/></a>
 
 </td>
 </tr>
@@ -172,100 +246,102 @@ A project management system for coordinating batches, mentors, project stages, a
 
 ### 📚 Zealians StudyHub
 
-**College notes-sharing platform**
+<img src="https://img.shields.io/badge/EDTECH-NOTES%20SHARING-8B5CF6?style=for-the-badge" alt="Notes-sharing platform"/>
 
-A learning resource platform for sharing and finding academic materials.
+A college learning platform for organizing and sharing academic study resources.
 
-**Focus areas**
-- Student, faculty, and admin workflows
+**Highlights**
+- Student, faculty, and admin roles
 - Notes uploads and search
-- Subject and unit organization
+- Subjects, units, and learning resources
 - AI study chatbot integration
 
-<a href="https://github.com/om249/Zealians-StudyHub">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Zealians StudyHub"/>
-</a>
+<a href="https://github.com/om249/Zealians-StudyHub"><img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Zealians StudyHub"/></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🍔 Online Food System
 
-**Restaurant and food ordering**
+<img src="https://img.shields.io/badge/WEB-FOOD%20ORDERING-6D28D9?style=for-the-badge" alt="Online food ordering"/>
 
-A food ordering application project with restaurant-related and database-backed workflows.
+A restaurant and food ordering project focused on application workflows and database integration.
 
-**Focus areas**
-- Restaurant and menu data
-- Ordering workflows
-- Backend and database integration
+**Highlights**
+- Restaurant and menu information
+- Food ordering workflows
+- Database integration
+- Application business logic
 
-<a href="https://github.com/om249/Online-Food-System">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Online Food System"/>
-</a>
+<a href="https://github.com/om249/Online-Food-System"><img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Online Food System"/></a>
 
 </td>
 </tr>
 </table>
 
----
-
-## `$ git stats`
-
 <div align="center">
 
-### 📊 GitHub overview
+### ✨ More projects. More experiments. More learning.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=om249&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BC8CFF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om249&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=BC8CFF&text_color=C9D1D9" alt="Most-used repository languages"/>
-
-### 🔥 Contribution streak
-
-<img src="https://streak-stats.demolab.com?user=om249&theme=transparent&hide_border=true&background=0D1117&ring=BC8CFF&fire=BC8CFF&currStreakLabel=BC8CFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
-
-### 🏆 GitHub trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=om249&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="GitHub profile trophies"/>
-
-### 📈 Contribution activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=om249&bg_color=0D1117&color=C9D1D9&line=BC8CFF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+<a href="https://github.com/om249?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/></a>
 
 </div>
 
-> These are live third-party widgets, not manually entered statistics. Top languages reflect code in public repositories, not overall proficiency. Availability and rendering depend on each service.
-
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/om249">
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=om249&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=E6EDF3&include_all_commits=true" alt="GitHub statistics for om249"/>
+</a>
+<a href="https://github.com/om249?tab=repositories">
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=om249&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E6EDF3" alt="Top programming languages"/>
+</a>
+
+<br/><br/>
+
+<sub>Stats are generated dynamically. Language percentages represent detected code in eligible repositories, not overall proficiency.</sub>
+
+</div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/om249">
+<img width="75%" src="https://streak-stats.demolab.com/?user=om249&theme=transparent&hide_border=true&background=0D1117&ring=C084FC&fire=C084FC&currStreakLabel=C084FC&sideLabels=E6EDF3&dates=8B949E" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/om249/om249/output/github-contribution-grid-snake-dark.svg)
+<img width="100%" src="https://raw.githubusercontent.com/om249/om249/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
 
 </div>
 
-
-## `$ connect --with=omkar`
+---
 
 <div align="center">
 
-<a href="https://github.com/om249">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/omkar-dhumal-092763255/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="mailto:omkarmdhumal2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20hello-BC8CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:190A2E,100:7C3AED&height=250&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%92%9C&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Development%20%E2%80%A2%20AI%20Applications%20%E2%80%A2%20Continuous%20Learning&descSize=13&descAlignY=73" alt="Thank you footer banner"/>
 
 <br/><br/>
 
-**Thanks for visiting my profile!**
+<a href="https://github.com/om249"><img src="https://img.shields.io/badge/FOLLOW%20MY%20JOURNEY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow my GitHub journey"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/omkar-dhumal-092763255/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:omkarmdhumal2004@gmail.com"><img src="https://img.shields.io/badge/CONTACT%20ME-C084FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/></a>
 
-`Code` • `Learn` • `Build` • `Repeat`
+<br/><br/>
+
+<sub>💜 Keep building. Keep learning. Keep improving.</sub>
 
 </div>
