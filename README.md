@@ -191,9 +191,9 @@ Refine projects, write better code, and use feedback to keep progressing.
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/OOP-Object--Oriented%20Programming-8B5CF6?style=for-the-badge" width="275" alt="OOP"/>
+<img src="https://img.shields.io/badge/OOP-Object--Oriented%20Programming-8B5CF6?style=for-the-badge" width="300" alt="OOP"/>
 &nbsp;
-<img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-C084FC?style=for-the-badge" width="275" alt="DSA"/>
+<img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-C084FC?style=for-the-badge" width="300" alt="DSA"/>
 &nbsp;
 <img src="https://img.shields.io/badge/SDLC-Software%20Development%20Lifecycle-6D28D9?style=for-the-badge" width="300" alt="SDLC"/>
 
