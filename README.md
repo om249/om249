@@ -25,7 +25,7 @@
 
 ---
 
-## `Who Am I`
+## Who Am I
 
 <table>
 <tr>
